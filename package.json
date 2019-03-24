@@ -1,0 +1,23 @@
+{
+  "name": "redis-with-node",
+  "version": "1.0.0",
+  "description": "redis-with-node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-chaurasia/redis-with-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit-chaurasia/redis-with-node/issues"
+  },
+  "homepage": "https://github.com/ankit-chaurasia/redis-with-node#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
